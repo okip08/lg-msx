@@ -1,6 +1,6 @@
 {    
     "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "content:https://okip08.github.io/stremio_lg_workarround/data/content.json",
+    "parameter": "content:https://okip08.github.io/data/content.json",
     "welcome": "none"
 }
